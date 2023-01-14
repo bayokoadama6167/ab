@@ -1,0 +1,38 @@
+.page{
+    width: 595px;
+    height: 842px;
+    background-color: bisque;
+    margin: auto;
+}
+.h{
+    width: 595px;
+    height: 150px;
+    background-color: aquamarine;
+}
+.image img{
+    width: 125px;
+    height: 150px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+.text_h{
+    text-align: justify;
+    margin-top: -180px;
+    padding-top: -50px;
+    margin-left: 310px;
+}
+.g{
+    width: 160px;
+    height: 692px;
+    background-color: darkgray;
+}
+.d{
+    width: 445px;
+    text-align: justify;
+    margin-top: -700px;
+    padding-top: -50px;
+    margin-left: 185px;
+}
+.tel{
+    margin-left: 10px;
+}
